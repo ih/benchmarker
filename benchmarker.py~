@@ -1,0 +1,2 @@
+def bench(executable, iterations):
+"""String -> Int -> File; runs executable iterations number of times for different languages then outputs the execution times into a file"""
